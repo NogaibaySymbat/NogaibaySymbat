@@ -1,7 +1,7 @@
 # Symbat on the call
 
 I'm a Software Engineer student at Astana IT  University 🎓  
-I specialize in JavaScript & Web Development ⚡
+I specialize in JavaScript & Web Development ⚡ <br>
 I build modern, responsive, and user-friendly web applications 🚀
 
 ---
