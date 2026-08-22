@@ -1,4 +1,4 @@
-# NogaibaySymbat on the call
+# Symbat on the call
 
 I'm a Software Engineer student at Astana IT  University 🎓  
 I specialize in JavaScript & Web Development ⚡
@@ -20,7 +20,4 @@ I build modern, responsive, and user-friendly web applications 🚀
 
 ---
 
-### 📊 GitHub Stats:
 
-![NogaibaySymbat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NogaibaySymbat&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NogaibaySymbat&layout=compact&theme=dark)
