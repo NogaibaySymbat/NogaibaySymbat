@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Symbat 🌷
+# Hi, I'm Symbat 
 
 ### Frontend Developer · UI/UX Designer
 
@@ -65,7 +65,7 @@ turning ideas into layouts, components and interactions that feel clear and easy
 
 ## Selected work
 
-### 🌸 Skincare E-Commerce
+### Skincare E-Commerce
 
 A responsive skincare storefront with product-focused layouts and interactive frontend elements.
 
@@ -73,12 +73,12 @@ A responsive skincare storefront with product-focused layouts and interactive fr
 
 [Explore the repository ↗](https://github.com/NogaibaySymbat/SkincareS)
 
-### 🎨 Interface Design
+### Interface Design
 
 Web layouts, interface components and visual prototypes created in Figma.
 My design work focuses on clear hierarchy, consistent styling and straightforward navigation.
 
-### 🎓 University Admission Assistant
+### University Admission Assistant
 
 An iOS application that helps students explore universities and educational programs in Kazakhstan, with an AI-powered assistant for relevant recommendations.
 
